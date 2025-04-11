@@ -1,0 +1,18 @@
+#imagem{
+
+    margin-left: 50px;
+
+}
+#teste{
+    box-shadow: 6px 6px 6px #00000027;
+    border-radius: 8px;
+    filter: blur(3px)
+}
+
+form{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateY(-50%) translateX(-50%)
+
+}
